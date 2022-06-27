@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="adff6da7-7bdf-4786-b5bb-b758258c8b9b" name="20.25.65.141" url="20.25.65.141">
+        <fileTransfer rootFolder="/home/codeflambe" accessType="SFTP" host="20.25.65.141" port="22" sshConfigId="5a1113ff-2202-44b6-8e52-7d453d04e530" sshConfig="codeflambe@20.25.65.141:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
